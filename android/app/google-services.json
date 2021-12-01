@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "260927023040",
+    "project_id": "expend-alpha",
+    "storage_bucket": "expend-alpha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260927023040:android:9880bc300b19df02ce8a25",
+        "android_client_info": {
+          "package_name": "io.chocovish.expend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260927023040-44grq9aaa8kgf4kd84k3davp7ad11i03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.chocovish.expend",
+            "certificate_hash": "c4c22a336cf68372275c36c939dd043654fbf21e"
+          }
+        },
+        {
+          "client_id": "260927023040-dgs866rod6bqme7blgkkk2valc3u6u9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4kzxN9obOE7e1H7ClDkC_UiQEPSalyN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260927023040-dgs866rod6bqme7blgkkk2valc3u6u9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
